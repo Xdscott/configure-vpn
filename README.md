@@ -15,7 +15,7 @@ This project provides a comprehensive guide to setting up Proton VPN on your com
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Browse to https://whatismyipaddress.com/ and take note of this in a text file: <br/>
